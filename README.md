@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryaca
-- 
+
 - 👀 I’m interested in anything tech, but more specifically cybersecurity!
 
 - 🌱 I’m currently learning Python, IT/Networking, and pentesting! 
