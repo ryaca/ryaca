@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ryaca
 
-- 👀 I’m interested in anything tech, but more specifically cybersecurity!
+- 👀 I’m interested in anything tech, but more specifically cybersecurity
 
-- 🌱 I’m currently learning Python, IT/Networking, and pentesting! 
+- 🌱 I’m currently learning Python, IT/Networking, and pentesting
 
-- 💞️ I’m looking to collaborate on anything that helps me learn more about technology!
+- 💞️ I’m looking to collaborate on anything that helps me learn more about technology
 
 <!--- 📫 How to reach me ...
 
